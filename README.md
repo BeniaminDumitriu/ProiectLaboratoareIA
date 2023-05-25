@@ -1,0 +1,2 @@
+# ia
+Proiect laboratoare IA
